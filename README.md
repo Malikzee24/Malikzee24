@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Malikzee24
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python and R Programming Language
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via: Github, Linkedin, Instagram, Twitter, Facebook or Email 
 
 Github: Malikzee24
