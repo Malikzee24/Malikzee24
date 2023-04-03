@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zeeshan</h1>
 <h3 align="center">A passionate about Data Science and Web Development</h3>
-<img align="right" alt="coding" width=400px src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966.gif">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malikzee24&label=Profile%20views&color=0e75b6&style=flat" alt="malikzee24" /> </p>
 
@@ -42,11 +42,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/malikzee24t"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="malikzee24t" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malikzee24&show_icons=true&locale=en&layout=compact" alt="malikzee24" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malikzee24&show_icons=true&locale=en" alt="malikzee24" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malikzee24&" alt="malikzee24" /></p>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Malikzee24&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Malikzee24&theme=merko&hide_border=false)<br/>
