@@ -47,3 +47,31 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malikzee24&show_icons=true&locale=en" alt="malikzee24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malikzee24&" alt="malikzee24" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Malikzee24&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Malikzee24&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Malikzee24&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Malikzee24&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=real_zee24)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Malikzee24&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=Malikzee24&icon=6&color=11)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/malikzee24t?new=1) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/patreon.com/MuhammadZeeshan) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
