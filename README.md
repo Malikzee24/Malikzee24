@@ -36,6 +36,7 @@
 <a href="https://hashnode.com/@malikzee24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@malikzee24" height="30" width="40" /></a>
 <a href="https://medium.com/@malik.zee2385" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@malik.zee2385" height="30" width="40" /></a>
 <a href="https://discord.gg/Malikzee24#2772" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Malikzee24#2772" height="30" width="40" /></a>
+<img align="right" alt="coding" width="450" src=" https://user-images.githubusercontent.com/25807788/89138849-e7965600-d50a-11ea-9e8e-ee7311f81ff8.gif">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
