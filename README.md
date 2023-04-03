@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zeeshan</h1>
 <h3 align="center">A passionate about Data Science and Web Development</h3>
-<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/66636733/229579915-db36fb8c-df04-4e62-84cd-cf75650f5f6e.png)gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/66636733/229579915-db36fb8c-df04-4e62-84cd-cf75650f5f6e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malikzee24&label=Profile%20views&color=0e75b6&style=flat" alt="malikzee24" /> </p>
 
