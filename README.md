@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zeeshan</h1>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <h3 align="center">I am passionate about Data Science and Web Development</h3>
 <img align="right" alt="coding" width="410" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malikzee24&label=Profile%20views&color=0e75b6&style=flat" alt="malikzee24" /> </p>
@@ -25,6 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="malikzeeshan247" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/malikzeeshan247?trk=profile-badge">Muhammad Zeeshan</a></div>
               
 <a href="https://dev.to/malikzee24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="malikzee24" height="30" width="40" /></a>
