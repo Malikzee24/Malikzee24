@@ -24,9 +24,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="malikzeeshan247" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/malikzeeshan247?trk=profile-badge">Muhammad Zeeshan</a></div>
-              
 <a href="https://dev.to/malikzee24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="malikzee24" height="30" width="40" /></a>
 <a href="https://twitter.com/real_zee24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="real_zee24" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/malikzeeshan247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/malikzeeshan247/" height="30" width="40" /></a>
