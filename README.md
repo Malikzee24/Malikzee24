@@ -60,6 +60,7 @@
 
 ### 😂 Random Dev Meme
 <p align="right"> I am Coding Right Now :) </p>
+<p>  </p>
 <img align="right" alt="coding" width="300" height="450" src="https://media2.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?">
 <img src="https://rm.up.railway.app/" width="512px"/>
 
