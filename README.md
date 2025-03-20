@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zeeshan</h1>
-<h3 align="center">I am passionate about Data Science and Web Development</h3>
+<h3 align="center">I am passionate about Data Science and Machine Learning </h3>
 <img align="right" alt="coding" width="410" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malikzee24&label=Profile%20views&color=0e75b6&style=flat" alt="malikzee24" /> </p>
 <p align="left"> <a href="https://twitter.com/real_zee24" target="blank"><img src="https://img.shields.io/twitter/follow/real_zee24?logo=twitter&style=for-the-badge" alt="real_zee24" /></a> </p>
 
 
-- 🔭 I’m currently working on **Python, SQL, HTML, CSS, Bootstrap and JavaScript**
+- 🔭 I’m currently working on **Python, SQL and JavaScript**
 
-- 🌱 I’m currently learning **Web Development Frameworks**
+- 🌱 I’m currently learning **Data Science and Machine Learning Frameworks**
 
 - 🤝 I’m looking for help with **Software Developers and Data Scientist**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/malikzeeshan247/](https://www.linkedin.com/in/malikzeeshan247/)
 
-- 💬 Ask me about **Python, SQL, HTML and CSS**
+- 💬 Ask me about **Python and SQL**
 
 - 📫 How to reach me **malik.zee2385@gmail.com**
 
-- ⚡ Fun fact **I am funny :)**
+- ⚡ Fun fact **I do play indoor and outdoor Games :)**
 
               
 <img align="right" alt="coding" width="400" src= "https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
